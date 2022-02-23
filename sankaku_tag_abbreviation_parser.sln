@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sankaku_tag_abbreviation_parser", "sankaku_tag_abbreviation_parser\sankaku_tag_abbreviation_parser.csproj", "{54D5EC18-E4A7-4DB6-8039-138D7951690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D5EC18-E4A7-4DB6-8039-138D7951690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D5EC18-E4A7-4DB6-8039-138D7951690F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D5EC18-E4A7-4DB6-8039-138D7951690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D5EC18-E4A7-4DB6-8039-138D7951690F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A116EB5-C50B-4108-9039-072889C10C6B}
+	EndGlobalSection
+EndGlobal
